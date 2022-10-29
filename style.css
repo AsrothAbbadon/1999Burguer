@@ -1,0 +1,25 @@
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 30px;
+}
+
+.header{
+    position: absolute;
+    width: 100%;
+    background-color: #605E5E;
+}
+
+.menu-titles{
+    border-color: #382f2f;
+    border-style: solid;
+    color: #ffffff;
+    background-color: #ffffff;
+    
+}
+
+.menu-titles:hover{
+    background-color: #444444;
+}
